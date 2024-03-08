@@ -1,3 +1,4 @@
+![Screenshot 2024-03-08 131212](https://github.com/adithakur01/TITANIC_SURVIVE_PREDICTIONS-/assets/143691772/2cd130e8-4f45-4a23-ae33-309e0ee67858)
 ![Screenshot 2024-03-08 131342](https://github.com/adithakur01/TITANIC_SURVIVE_PREDICTIONS-/assets/143691772/b325f553-61d2-4ed3-bc20-7f5bea7ce090)
 # TITANIC_SURVIVE_PREDICTIONS
 
@@ -36,6 +37,4 @@ If you have suggestions, bug reports, or feature requests, feel free to open an 
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-![Screenshot 2024-03-08 131342](https://github.com/adithakur01/TITANIC_SURVIVE_PREDICTIONS-/assets/143691772/b0940ddc-7feb-442a-8591-76cf6f89654b)
 
