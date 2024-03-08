@@ -1,3 +1,4 @@
+![Screenshot 2024-03-08 131342](https://github.com/adithakur01/TITANIC_SURVIVE_PREDICTIONS-/assets/143691772/b325f553-61d2-4ed3-bc20-7f5bea7ce090)
 # TITANIC_SURVIVE_PREDICTIONS
 
 This project implements a simple GUI application using Tkinter in Python to predict the survival of passengers on the Titanic. The prediction is made using a Decision Tree Classifier trained on the Titanic dataset.
@@ -36,6 +37,5 @@ If you have suggestions, bug reports, or feature requests, feel free to open an 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-![Screenshot 2024-03-08 131212](https://github.com/adithakur01/TITANIC_SURVIVE_PREDICTIONS-/assets/143691772/4a4f86c6-14e0-4ee6-a46d-719e295047f5)
+![Screenshot 2024-03-08 131342](https://github.com/adithakur01/TITANIC_SURVIVE_PREDICTIONS-/assets/143691772/b0940ddc-7feb-442a-8591-76cf6f89654b)
 
-![Screenshot 2024-03-08 131342](https://github.com/adithakur01/TITANIC_SURVIVE_PREDICTIONS-/assets/143691772/7f845883-bae9-4a1e-8787-2590cfc378f5)
